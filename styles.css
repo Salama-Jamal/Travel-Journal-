@@ -1,0 +1,16 @@
+.global-img {
+    width: 40px;
+
+}
+
+nav {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: crimson;
+    color: #ffffff;
+}
+
+h1 {
+    padding-left: 10px;
+}
