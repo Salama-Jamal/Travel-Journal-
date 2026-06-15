@@ -3,7 +3,7 @@ export default function Header() {
     <>
         <nav>
             <img src="./img/earth.png" alt="global image" className="global-img" />
-            <h1>My Travel Journal.</h1>
+            <h1>my travel journal.</h1>
         </nav>
     </>
     )
